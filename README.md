@@ -1,13 +1,13 @@
 # Students-Score-Analysis
 A Power BI project analyzing students' academic performance, study habits, and career aspirations.
 
-## 📊 Key Features
+## 📊 analysis Objectives
 - Career aspiration and gender distribution analysis
 - Average score & weekly self-study hours by career aspiration
 - Study hours & absence days vs. average score correlation
 - Impact of part-time jobs and extracurriculars on average score of students
 
-## 📁 Files
+## 📁 Project Files
 - "Students_Score_Analysis.pbix": Final report with insights and visuals
 - "student_scores.csv" : Original dataset (source : Kaggle)
 
@@ -30,4 +30,4 @@ A Power BI project analyzing students' academic performance, study habits, and c
 
 ## 🔗 Author
 Rania OUTAYEB
-email [rania.outayeb@gmail.com] | LinkedIn []
+email [rania.outayeb@gmail.com] | LinkedIn [https://www.linkedin.com/in/rania-outayeb-9953r997o9953?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
