@@ -31,4 +31,4 @@ A Power BI project analyzing students' academic performance, study habits, and c
 ## 👤 Author
 Rania OUTAYEB
 Data Analyst Trainee  
-[LinkedIn](https://www.linkedin.com/in/rania-outayeb-9953r997o9953?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](rania.outayeb.53@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/rania-outayeb-9953r997o9953?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Email](outayeb.rania@gmail.com)
